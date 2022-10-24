@@ -14,7 +14,7 @@ header{
 }
 
 .bg{
-    background-image: url(src/img/moon.jpg);
+    background-image: url(src/moon.jpg);
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
