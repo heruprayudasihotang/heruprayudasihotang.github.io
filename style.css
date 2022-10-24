@@ -175,7 +175,7 @@ input:hover{
     top: -45px;
 }
 
-.Gaming{
+.Hiking{
     position: relative;
     width: 90px;
     height: 120px;
@@ -184,7 +184,7 @@ input:hover{
     left: 20px;
 }
 
-.Badminton{
+.Wachting{
     position: relative;
     top: -120px;
     left: 120px;
@@ -204,7 +204,7 @@ input:hover{
     margin-left: 20px;
 }
 
-.Hiking{
+.Badminton{
     position: relative;
     top: -360px;
     left: 320px;
@@ -214,7 +214,7 @@ input:hover{
     margin-left: 20px;
 }
 
-.Wacthing{
+.Gaming{
     position: relative;
     top: -480px;
     left: 420px;
