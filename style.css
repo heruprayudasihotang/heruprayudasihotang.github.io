@@ -153,29 +153,29 @@ input:hover{
     color: #666;
 }
 
-.abilities{
+.Hobby{
     background-color: transparent;
     position: relative;
     top: -30px;
     height: 160px;
 }
 
-.abilities a{
+.Hobby a{
     text-decoration: none;
     text-align: center;
 }
 
-.abilities a p{
+.Hobby a p{
  text-align: center;
 }
 
-.abilities a img{
+.Hobby a img{
     width: 80px;
     position: relative;
     top: -45px;
 }
 
-.html{
+.Gaming{
     position: relative;
     width: 90px;
     height: 120px;
@@ -184,7 +184,7 @@ input:hover{
     left: 20px;
 }
 
-.css{
+.Badminton{
     position: relative;
     top: -120px;
     left: 120px;
@@ -194,7 +194,7 @@ input:hover{
     margin-left: 20px;
 }
 
-.js{
+.Football{
     position: relative;
     top: -240px;
     left: 220px;
@@ -204,7 +204,7 @@ input:hover{
     margin-left: 20px;
 }
 
-.nodejs{
+.Hiking{
     position: relative;
     top: -360px;
     left: 320px;
@@ -214,7 +214,7 @@ input:hover{
     margin-left: 20px;
 }
 
-.mongodb{
+.Wacthing{
     position: relative;
     top: -480px;
     left: 420px;
